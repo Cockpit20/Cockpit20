@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Online Doctor Appointing APP**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **WordPress**
 
 - 📫 How to reach me **soumyadeepchandra@2002gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/soumyadeep-chandra-6b4434232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyadeep-chandra-6b4434232" height="30" width="40" /></a>
-<a href="https://instagram.com/_2roadblock__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_2roadblock__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cockpit20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cockpit20" height="30" width="40" /></a>
+<a href="https://instagram.com/skillup.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_2roadblock__" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/cockpit24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cockpit20" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
